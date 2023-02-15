@@ -3,7 +3,7 @@
 
 name: Maven Package
 
-on: push
+on: workflow_call
 
 jobs:
   build:
